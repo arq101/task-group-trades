@@ -1,0 +1,23 @@
+2019-11-14 20:50:00,916 : INFO : Parsing input xml file ...
+2019-11-14 20:50:00,917 : INFO : Trades parsed from input source
+2019-11-14 20:50:00,921 : INFO : Generating dataframe object of all trades ...
+2019-11-14 20:50:00,940 : INFO : Finding and aggregating trades for correlation ID: 234
+2019-11-14 20:50:00,944 : INFO : Trades accepted for correlation ID: 234
+2019-11-14 20:50:00,947 : INFO : Finding and aggregating trades for correlation ID: 222
+2019-11-14 20:50:00,949 : INFO : Trades rejected for correlation ID: 222
+2019-11-14 20:50:00,952 : INFO : Finding and aggregating trades for correlation ID: 200
+2019-11-14 20:50:00,953 : INFO : Trades pending for correlation ID: 200
+2019-11-14 20:50:00,957 : INFO : finished writing to csv: results.csv
+2019-11-14 20:50:00,957 : INFO : --finished successfully--
+2019-11-14 20:50:11,542 : INFO : Parsing input xml file ...
+2019-11-14 20:50:11,545 : INFO : Trades parsed from input source
+2019-11-14 20:50:11,548 : INFO : Trades parsed from input source
+2019-11-14 20:50:11,551 : INFO : Generating dataframe object of all trades ...
+2019-11-14 20:50:11,589 : INFO : Finding and aggregating trades for correlation ID: 701
+2019-11-14 20:50:11,591 : INFO : Trades accepted for correlation ID: 701
+2019-11-14 20:50:11,593 : INFO : Finding and aggregating trades for correlation ID: 002
+2019-11-14 20:50:11,594 : INFO : Trades rejected for correlation ID: 002
+2019-11-14 20:50:11,597 : INFO : Finding and aggregating trades for correlation ID: 103
+2019-11-14 20:50:11,599 : INFO : Trades pending for correlation ID: 103
+2019-11-14 20:50:11,668 : ERROR : Invalid number of arguments!
+2019-11-14 20:50:11,668 : INFO : Usage: python run_analyze_trades.py <input.xml>
