@@ -8,7 +8,7 @@ ipython-genutils==0.2.0
 jedi==0.14.1
 mock==3.0.5
 more-itertools==7.2.0
-numpy==1.17.0
+numpy==1.22.0
 packaging==19.1
 pandas==0.25.0
 parso==0.5.1
